@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0986f467669718f49a9b4b3415443734
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89589
+  packageName: Obfuscator Pro
+  packageVersion: 5.7.1
+  assetPath: Assets/OPS/Obfuscator/Log/StandaloneWindows64.txt
+  uploadId: 787578

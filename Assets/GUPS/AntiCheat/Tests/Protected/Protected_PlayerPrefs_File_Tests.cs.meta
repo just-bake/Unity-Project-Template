@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 78681328f42c21a47aa140a965baa5cd
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Tests/Protected/Protected_PlayerPrefs_File_Tests.cs
+  uploadId: 732256

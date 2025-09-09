@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9891fb27b7ec8434086f99131e68d77c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Source/Detector/Time/GameTimeCheatingDetector.cs
+  uploadId: 732256

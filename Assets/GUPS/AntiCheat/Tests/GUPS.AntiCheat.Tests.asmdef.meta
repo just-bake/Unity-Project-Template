@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 87452751d1871b84da3bed7cefb98e16
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Tests/GUPS.AntiCheat.Tests.asmdef
+  uploadId: 732256

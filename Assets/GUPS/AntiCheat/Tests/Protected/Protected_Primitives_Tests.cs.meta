@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 45c4fa48b9b9be743b62583941ef0e9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Tests/Protected/Protected_Primitives_Tests.cs
+  uploadId: 732256

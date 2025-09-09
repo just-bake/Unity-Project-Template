@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3303281fb0cc64bfc9efb7077345efc1
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Source/UI/GoalMenuPanel.cs
+  uploadId: 732256

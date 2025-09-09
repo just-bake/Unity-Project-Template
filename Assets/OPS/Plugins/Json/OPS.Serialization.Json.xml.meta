@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1a33e08f67abb641af0954b74d78f79
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89589
+  packageName: Obfuscator Pro
+  packageVersion: 5.7.1
+  assetPath: Assets/OPS/Plugins/Json/OPS.Serialization.Json.xml
+  uploadId: 787578

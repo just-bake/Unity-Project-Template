@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 38ddc80629bbb26458e0eee1f14d174b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Resources/Prefabs/Detectors/Android Package Cheating
+    Detector.prefab
+  uploadId: 732256

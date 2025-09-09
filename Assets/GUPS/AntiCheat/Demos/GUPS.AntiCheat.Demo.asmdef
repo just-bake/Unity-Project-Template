@@ -1,0 +1,16 @@
+{
+    "name": "GUPS.AntiCheat.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:66723abb139b36344a663372d7df6518"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

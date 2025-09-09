@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b531a5e537eb1fa478b8fcbe8108ba29
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_DataChain/Resources/Materials/Walking.mat
+  uploadId: 732256

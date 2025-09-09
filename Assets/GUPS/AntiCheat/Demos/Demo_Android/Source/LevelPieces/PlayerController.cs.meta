@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a67784f635bbd4a0c9f9ebec9ed546aa
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Source/LevelPieces/PlayerController.cs
+  uploadId: 732256

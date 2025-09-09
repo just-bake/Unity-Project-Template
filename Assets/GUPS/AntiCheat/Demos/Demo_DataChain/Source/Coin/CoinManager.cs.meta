@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 6f085e1fe2bda26408eb1ff504a15895
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_DataChain/Source/Coin/CoinManager.cs
+  uploadId: 732256

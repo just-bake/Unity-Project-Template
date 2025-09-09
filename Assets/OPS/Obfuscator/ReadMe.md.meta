@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c780a86f77d600438069adb3c8a3dcf
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89589
+  packageName: Obfuscator Pro
+  packageVersion: 5.7.1
+  assetPath: Assets/OPS/Obfuscator/ReadMe.md
+  uploadId: 787578

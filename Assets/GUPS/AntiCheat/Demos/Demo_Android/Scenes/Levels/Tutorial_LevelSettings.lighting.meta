@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ff85a8e9b5de854aadb40f87d0372ab
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Scenes/Levels/Tutorial_LevelSettings.lighting
+  uploadId: 732256

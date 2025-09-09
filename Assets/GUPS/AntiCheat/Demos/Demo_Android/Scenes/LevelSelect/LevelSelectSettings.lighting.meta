@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6d9882fca81946640b07d3debf78d891
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Scenes/LevelSelect/LevelSelectSettings.lighting
+  uploadId: 732256

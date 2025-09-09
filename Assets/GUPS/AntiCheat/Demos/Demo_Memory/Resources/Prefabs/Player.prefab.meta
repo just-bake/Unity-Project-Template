@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e1fae1c9e8552e94aa0f04783079a96c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Memory/Resources/Prefabs/Player.prefab
+  uploadId: 732256

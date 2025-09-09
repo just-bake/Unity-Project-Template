@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6407bf18407c504790b37fc9508f925
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 89589
+  packageName: Obfuscator Pro
+  packageVersion: 5.7.1
+  assetPath: Assets/OPS/Editor/Plugins/GUPS.Assets.Editor/GUPS.Assets.Editor.xml
+  uploadId: 787578

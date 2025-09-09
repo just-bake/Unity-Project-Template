@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6f2fca226aaf1c7478a8089d045c1dba
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Scenes/Levels/Leap_LevelSettings.lighting
+  uploadId: 732256

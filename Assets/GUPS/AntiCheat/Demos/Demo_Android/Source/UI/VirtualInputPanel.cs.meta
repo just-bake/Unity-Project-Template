@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a7e90bc89d482434597359c92755ef60
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Source/UI/VirtualInputPanel.cs
+  uploadId: 732256

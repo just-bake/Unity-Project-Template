@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b7e9df752d8fa6943ba29a8ebbac83ee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Source/Protected/Time/ProtectedTime.cs
+  uploadId: 732256

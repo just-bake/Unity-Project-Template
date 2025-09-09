@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d708f03f128f749419502c626bbdfca6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Scenes/Title/TitleSettings.lighting
+  uploadId: 732256

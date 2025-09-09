@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 20edc575f9deee843b3729e5fc8d582f
+timeCreated: 1481219632
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 106670
+  packageName: Rainbow Hierarchy 2
+  packageVersion: 2.6.3
+  assetPath: Assets/Plugins/Borodar/RainbowHierarchy/Scripts/Runtime/Info/AssetInfo.cs
+  uploadId: 776045

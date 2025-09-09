@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9b8db7a265cbb4b4da13fce25c12db2d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Scenes/Levels/Dejavu_LevelSettings.lighting
+  uploadId: 732256

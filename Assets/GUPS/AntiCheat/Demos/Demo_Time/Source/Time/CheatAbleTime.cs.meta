@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0d06167c33d7e7d428d2c24e8afcda8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Time/Source/Time/CheatAbleTime.cs
+  uploadId: 732256

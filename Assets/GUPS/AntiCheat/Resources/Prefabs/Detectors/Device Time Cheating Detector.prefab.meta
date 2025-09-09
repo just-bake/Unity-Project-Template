@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 892d539467829fb4d90ec2bf2b88aee6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Resources/Prefabs/Detectors/Device Time Cheating
+    Detector.prefab
+  uploadId: 732256

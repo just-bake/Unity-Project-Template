@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ddd7e75b6511b48dd98b49b0d79e6275
+timeCreated: 1436763608
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Android/Resources/Levels/LevelsPackage.asset
+  uploadId: 732256

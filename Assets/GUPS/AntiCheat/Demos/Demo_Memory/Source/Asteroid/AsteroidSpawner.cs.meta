@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 9293edcc83b92834ba39ef514e0c601b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 300626
+  packageName: Anti Cheat Pro - 2025
+  packageVersion: 2025.1.2
+  assetPath: Assets/GUPS/AntiCheat/Demos/Demo_Memory/Source/Asteroid/AsteroidSpawner.cs
+  uploadId: 732256
